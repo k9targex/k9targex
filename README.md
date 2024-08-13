@@ -14,3 +14,9 @@
 
 [![View My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-green?style=for-the-badge&logo=adobe)](Mozheiko_Dmitry_Resume.pdf)
 
+
+## 📧 Contact
+
+[![Email Me](https://img.shields.io/badge/Email-dimamozheiko13@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dimamozheiko13@gmail.com)
+
+---
