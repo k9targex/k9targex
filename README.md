@@ -18,5 +18,5 @@
 ## 📧 Contact
 
 [![Email Me](https://img.shields.io/badge/Email-dimamozheiko13@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dimamozheiko13@gmail.com)
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k9targex)
 ---
